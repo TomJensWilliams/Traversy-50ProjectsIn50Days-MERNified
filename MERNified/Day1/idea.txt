@@ -1,0 +1,5 @@
+Maybe I could make this into some sort of calendar thing.
+I could have different gradient backgrounds for each day, with the colors involved coming from the month.
+I would make it so that there four to six rows, with each row being like the row from this project, but with seven sections instead of five.
+I would need to also make a user creation process, which in this case might work better with a panel that appears over the center of the screen.
+...

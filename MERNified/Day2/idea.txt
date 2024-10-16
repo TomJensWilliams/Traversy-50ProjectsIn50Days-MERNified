@@ -1,0 +1,1 @@
+Maybe I could make some sort of logic parser that builds a truth table step by step.
